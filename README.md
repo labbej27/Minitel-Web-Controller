@@ -6,6 +6,8 @@ Ce projet permet de sélectionner un serveur Minitel distant directement depuis 
 
 La communication entre le serveur distant et le Minitel est assurée par le projet [`websocket2minitel`](https://github.com/cquest/websocket2minitel) de [cquest](https://github.com/cquest).
 
+![Interface Minitel sur Raspberry Pi 5](image.jpg)
+
 ## ✨ Fonctionnalités
 
 - 🖥️ Interface web adaptée à un écran tactile.
